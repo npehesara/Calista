@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "826964272294",
+    "firebase_url": "https://calista-836a4-default-rtdb.firebaseio.com",
+    "project_id": "calista-836a4",
+    "storage_bucket": "calista-836a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826964272294:android:2c8c75df7a9ff8e2114067",
+        "android_client_info": {
+          "package_name": "com.example.calista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0zqDmyeY6wpFSdisU-adMvDVqWZuwZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
