@@ -1,4 +1,4 @@
-#**Calista — IoT-Based Swimming Pool Monitoring System**
+**#Calista — IoT-Based Swimming Pool Monitoring System**
 
 Calista is an IoT-based swimming pool monitoring and management system designed to monitor water quality, track chemical levels, and support automated pool maintenance.
 
