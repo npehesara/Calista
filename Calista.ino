@@ -9,14 +9,14 @@
 // =========================
 // WiFi
 // =========================
-#define WIFI_SSID "TC40"
-#define WIFI_PASSWORD "12345678q"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // =========================
 // Firebase
 // =========================
-#define API_KEY "AIzaSyB-oc-r4e0O9LpJ5OXhhtnHTrtauHjot3M"
-#define DATABASE_URL "https://calista-836a4-default-rtdb.firebaseio.com/"
+#define API_KEY ""
+#define DATABASE_URL ""
 
 // =====================================================
 // RELAYS
