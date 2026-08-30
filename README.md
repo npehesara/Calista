@@ -4,7 +4,7 @@ Calista is an IoT-based swimming pool monitoring and management system designed 
 
 The system combines an ESP8266-based hardware prototype with a Flutter mobile application and Firebase Realtime Database to provide real-time monitoring and centralized data management.
 
-Overview
+## **Overview**
 
 Maintaining appropriate swimming pool water quality requires regular monitoring of pH levels and chemical supplies. Calista aims to simplify this process by connecting IoT sensors and actuators with a mobile application.
 
@@ -16,7 +16,7 @@ The project consists of three main components:
 2. Firebase Backend
 3. Flutter Mobile Application
 
-Key Features
+## **Key Features**
 
 Real-Time pH Monitoring
 
@@ -64,7 +64,7 @@ User Profile
 
 The application includes a user profile section for managing user-related information.
 
-System Architecture
+## **System Architecture**
 
 pH Sensor
     |
@@ -101,7 +101,7 @@ pH Evaluation
     |
     +---- Low pH -----> Base Relay ----> Base Pump
 
-Technologies Used
+## **Technologies Used**
 
 Mobile Application
 
@@ -132,7 +132,7 @@ Development Tools
 - GitHub
 
 
-Firebase Database Structure
+## **Firebase Database Structure**
 
 The project uses Firebase Realtime Database to store real-time sensor data, chemical levels, schedules, and historical measurements.
 
@@ -159,7 +159,7 @@ calista
 
 Getting Started
 
-Prerequisites
+## **Prerequisites**
 
 Before running the project, install:
 
@@ -273,7 +273,7 @@ Flutter Application
     |
     +---- Chemical Monitoring
 
-Testing
+## **Testing**
 
 The project was tested in stages to verify individual components before integrating the complete system.
 
@@ -304,7 +304,7 @@ Example development rules should not be considered suitable for production.
 
 API keys and other configuration values should also be handled carefully, especially when publishing the project as a public GitHub repository.
 
-Current Status
+## **Current Status**
 
 The Calista project currently includes:
 
@@ -318,7 +318,7 @@ The Calista project currently includes:
 - Relay and pump prototype testing
 - User authentication and profile functionality
 
-Future Improvements
+## **Future Improvements**
 
 Potential future improvements include:
 
@@ -335,7 +335,7 @@ Potential future improvements include:
 - Production-ready hardware enclosure
 - Mobile application performance optimization
 
-Project Goals
+## **Project Goals**
 
 The main goal of Calista is to demonstrate how IoT hardware, cloud services, and mobile application development can be integrated into a single system to improve swimming pool monitoring and maintenance.
 
@@ -348,18 +348,16 @@ The project also provides practical experience in:
 - Hardware and software integration
 - Automated control systems
 
-License
+## **License**
 
 This project is intended for educational and development purposes.
 
-If a specific open-source license is required, add the appropriate license file to the repository.
-
-Contributors
+## **Contributors**
 
 Developed as a team project.
 
--Navod Pehesara
--Dilki Silva
--Wasana Bandara
+-**Navod Pehesara**
+-**Dilki Silva**
+-**Wasana Bandara**
 
 Contributions, suggestions, and improvements are welcome.
